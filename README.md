@@ -9,7 +9,9 @@
 ## Instruções
 
 1 - Executar o comando 'pip install -r requirements.txt' no prompt comando
+
 2 - Inserir os Imports no Visual Studio Code: 'import given, when, then, step, import requests'
+
 3 - Executar o comando 'Behave' no prompt Comando dentro da pasta 'desafio_1'
 
 
