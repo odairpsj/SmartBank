@@ -15,7 +15,8 @@ class TestAndroidBasicInteractions():
     deviceName =   'emulator-5554'
     PACKAGE =     'com.example.vamsi.login'
     MAIN_ACTIVITY = '.MainActivity'
-    log = logging.getLogger ("Meu log")
+    
+
 
     @pytest.fixture(scope='function')
     def driver(self, request):
