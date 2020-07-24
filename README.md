@@ -36,7 +36,7 @@ tools, platform-tools (essas váriaveis vão estar dentro do diretório da pasta
 3. Após abrir o Appium configurar o diretório de váriaveis 
 4. Startar servidor do Appium e iniciar a sesso do inspector
 5. Informar as váriaveis do Desired Capability (preencher com o Json das váriaveis)
-6. Ao abrir o Android Studio selecionar a opção Tools > AVD Maneger
+6. Ao abrir o Android Studio selecionar a opção Tools > AVD Manager
 7. Executar no terminal o comando py.test + (nome do arquivo).py
 
 ## Observações
