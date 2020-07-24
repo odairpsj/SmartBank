@@ -88,4 +88,4 @@ class TestAndroidBasicInteractions():
         campo_password_valido.send_keys('12345678')
         botao_login = driver.find_element_by_id("com.example.vamsi.login:id/btnLogin")  
         logging.info('E tento realizar um login no app')
-        botao_login.click()  
+        botao_login.click()      
